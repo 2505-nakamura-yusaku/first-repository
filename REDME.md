@@ -1,1 +1,3 @@
-練習ファイル
+### Readme
+
+これはfirst-repositoryの説明です
